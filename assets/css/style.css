@@ -212,3 +212,15 @@ h2 {
 #times h2 {
     color: #fafafa;
 }
+
+/* gallery */
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#photos>img {
+    width: 100%;
+}
