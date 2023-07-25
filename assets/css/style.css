@@ -257,3 +257,14 @@ h2 {
         display: none;
     }
 }
+
+/*for medium screeen sizes 950px and doiwn*/
+@media screen and (max-width: 950px) {
+    #menu {
+        clear: left;
+        float: leftM;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+}
